@@ -79,23 +79,32 @@ print("Lenght of X_test ",len(X_test))
 ```
 ## OUTPUT:
 ### Dataset:
-![images](./images/data.png)
+<img width="1590" height="450" alt="image" src="https://github.com/user-attachments/assets/92cd51c7-9422-4a86-bb4f-040556c0ef75" />
+
 ### X Values:
-![images](./images/x_values.png)
+<img width="473" height="295" alt="image" src="https://github.com/user-attachments/assets/06f812c7-8d0e-421f-91a1-6ca46539ea29" />
+
 ### Y Values:
-![images](./images/y_values.png)
+<img width="302" height="141" alt="image" src="https://github.com/user-attachments/assets/a7851d8d-ae85-4a5c-8aa6-a2a6cfbabf3c" />
+
 ### Null Values:
-![images](./images/null_values.png)
+<img width="231" height="382" alt="image" src="https://github.com/user-attachments/assets/301c0bba-5ddc-4daf-aa76-cfca8e90ccc1" />
+
 ### Duplicated Values:
-![images](./images/duplicated_values.png)
+<img width="267" height="312" alt="image" src="https://github.com/user-attachments/assets/07e00ab2-1db8-40d6-89e0-4428f8cc5363" />
+
 ### Description:
-![images](./images/describe.png)
+<img width="1557" height="310" alt="image" src="https://github.com/user-attachments/assets/27788572-6e6e-4a77-a7dd-253e356e0dcd" />
+
 ### Normalized Dataset:
-![](./images/normalized.png)
+<img width="827" height="666" alt="image" src="https://github.com/user-attachments/assets/f5a07ae6-11d8-4bc5-a585-b004b86794bd" />
+
 ### Training Data:
-![](./images/training%20.png)
+<img width="725" height="213" alt="image" src="https://github.com/user-attachments/assets/78567ac8-e5e5-4678-9c0c-449a8dd2a626" />
+
 ### Testing Data:
-![](./images/test.png)
+<img width="726" height="202" alt="image" src="https://github.com/user-attachments/assets/1c069e19-36bd-4113-b520-d7ca771e5c58" />
+
 
 
 ## RESULT:
